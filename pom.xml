@@ -9,7 +9,7 @@
   <version>0.1</version>
   <packaging>jar</packaging>
 
-  <name>bitcoin-test</name>
+  <name>bitcoin-sniffer</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.foui.io</url>
 
